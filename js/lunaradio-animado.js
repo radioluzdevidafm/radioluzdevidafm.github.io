@@ -4,7 +4,7 @@ https://www.luna-universe.com
 
 Copyright (C) SODAH | JOERG KRUEGER
 https://www.sodah.de
-Adaptado para Radio Zeno - 2023 - by Angel System
+Adaptado para Radio Zeno - 2024 - by Victor Manuel Zambrano
 */
 (function(d, G) {
 "function" === typeof define && define.amd ? define(["jquery"], G) : d.jQuery ? G(d.jQuery) : G(d.Zepto)
